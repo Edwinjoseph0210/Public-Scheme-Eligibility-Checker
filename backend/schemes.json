@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Pradhan Mantri Scholarship",
+    "eligibility": {
+      "min_age": 18,
+      "max_age": 25,
+      "education": ["graduate", "postgraduate"],
+      "occupation": ["student"],
+      "state": ["all"]
+    },
+    "category": "Education",
+    "apply_link": "https://scholarships.gov.in/"
+  },
+  {
+    "id": 2,
+    "name": "Kerala Unemployment Allowance",
+    "eligibility": {
+      "min_age": 21,
+      "max_age": 40,
+      "occupation": ["unemployed"],
+      "state": ["Kerala"]
+    },
+    "category": "Employment",
+    "apply_link": "https://kerala.gov.in/"
+  }
+]
